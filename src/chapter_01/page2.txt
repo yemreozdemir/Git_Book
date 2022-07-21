@@ -1,7 +1,7 @@
 
 
-tih is page 2
+This is page 2
 
-we are getting ready to commit
+We are getting ready to commit
 
-nothing new yet
+Nothing new yet
